@@ -37,7 +37,20 @@ functional testing before this lab
 
 # High-level description of the exploratory testing plan
 
-Text…
+Exploratory testing is testing done without predocumented tests or plan. While it
+is usually not very thorough due to lack of organization, the adaptibility it offers
+to the tester allows testers to find faults in a program much quicker than other options
+and explore the program, potentially finding faults that wouldn't have been found otherwise.
+
+The exploratory testing that we performed on the ATM program had two main goals. First, to
+confirm that the program met all requirements of the system that users require. To do this,
+the tester will act as a user for the software and perform actions that normal users would.
+The second goal is to check that the boundary cases work properly to restrict what the user
+can do. To check this, the tester will also try to test these boundary cases through entering
+values and performing actions that should not be allowed, such as entering 0 or a number that
+is greater than should be allowed, and seeing if the system responds properly. This process
+of trying various functions that should or should not be allowed will continue until the
+tester is confident they have found most or all of the faults in the system.
 
 # Comparison of exploratory and manual functional testing
 
