@@ -33,8 +33,6 @@ learned	1](#_Toc439194682)
 
 # Introduction
 
-**An introduction of your lab work, and what you knew about exploratory and manual
-**functional testing before this lab
 
 This lab was designed to explore how to test a software application made by someone else
 through using the software and testing it's functions to find any faults in the system.
@@ -112,7 +110,16 @@ Text…
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+During this assignments, we were faced with many problems ranging from implementing newly learnt testing techniques over to dividing 
+the work load between between teammates. The application of these testing techniques was found to be very useful for increasing our skills
+in developing test cases and test assessments. The assignment outline was very thorough in stating its requirements and also contained 
+all the crucial information needed to complete the assignment. In addition, the group-work specifications laid out in the assignment 
+made it easier for the work to be split up between all the group members. One word of critisism towards the assignment from one of our group members 
+was that all though the assignment outline contained alot of useful information, it was somewhat difficult to navigate to different points 
+in the assignment using the numbered points. For example, when reviewing the assignment outline, point number 5 of the regression testing 
+states "Execute steps 4 and 5 (Manual Scripted Testing)" with no number being associated to point number four. In conclusion, all though the 
+assignment handout was a little difficult to follow, assignment one was beneficial in increasing our understanding of the course. 
+
 
 # Comments/feedback on the lab and lab document itself
 
