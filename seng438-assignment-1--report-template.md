@@ -2,12 +2,13 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:       |19 |
 |-----------------|---|
 | Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Ryan Sommerville|   |
+| Renno Eric      |   |
+| Kaumil Patel    |   |
+| Quinn Ledingham |   |
 
 **Table of Contents**
 
