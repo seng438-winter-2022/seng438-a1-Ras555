@@ -105,7 +105,8 @@ any bugs in the system.
 Having peers review the defect reports helped to make it clear if the defect report could be understood
 without having to see the bug in action. It also showed if the steps in the defect report could be followed
 to recreate the bug. It seems possible to make a defect report that really only makes sense to yourself so
-having someone else look at it makes sure that this is not a problem.
+having someone else look at it makes sure that this is not a problem. It also makes it more likely that it
+is a bug if they can recreate instead of it possibly being a problem on your end. 
 
 # How the pair testing was managed and team work/effort was divided 
 
