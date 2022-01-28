@@ -109,7 +109,10 @@ having someone else look at it makes sure that this is not a problem.
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+For the pair testing the first pair was Kaumil and Ryan, the second pair was Quinn and Renno. Both pairs did
+exploratory testing with one person looking for bugs and the other person recording them. The manual scripted
+testing and the regression testing had someone doing to tests and others recording any defects that were found
+during those tests. The lab report was written with collaboration from everyone.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
