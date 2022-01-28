@@ -102,7 +102,10 @@ any bugs in the system.
 
 # Notes and discussion of the peer reviews of defect reports
 
-Text…
+Having peers review the defect reports helped to make it clear if the defect report could be understood
+without having to see the bug in action. It also showed if the steps in the defect report could be followed
+to recreate the bug. It seems possible to make a defect report that really only makes sense to yourself so
+having someone else look at it makes sure that this is not a problem.
 
 # How the pair testing was managed and team work/effort was divided 
 
